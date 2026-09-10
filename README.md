@@ -7,15 +7,12 @@ of any number entered by the user.
 - Calculates factorials of any positive integer
 - Accepts user input from the terminal
 - Includes input validation for negative numbers
-- Handles invalid user input
 - Easy to use and beginner friendly
 ## Requirements
 - Python 3.x
 - NumPy
 ## Installation
 Clone the repository.
-Install the dependencies using:
-pip install -r requirements.txt
 ## Usage
 Run:
 python factorial.py
